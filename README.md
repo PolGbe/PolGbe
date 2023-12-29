@@ -2,9 +2,9 @@
 
 **`Computer Science Student`**
 
-## Hello World !
+## Hello World ! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1643514655/6611/wave-animated.gif?1643514655" />
 
-I am studying at the University of La Rochelle. I like to develop and participate in projects. I code with passion whether from scratch or by contributing to existing projects.
+My name is Paul Gobbé. I live in France. I am studying at the University of La Rochelle. I like to develop and participate in projects. I code with passion whether from scratch or by contributing to existing projects.
 
 ---
 
