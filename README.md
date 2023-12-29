@@ -2,6 +2,8 @@
 
 **`Computer Science Student`**
 
+## Hello World !
+
 I am studying at the University of La Rochelle. I like to develop and participate in projects. I code with passion whether from scratch or by contributing to existing projects.
 
 ---
